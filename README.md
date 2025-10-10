@@ -58,6 +58,11 @@ b.  KCL:
 
 
 <img width="565" height="347" alt="image" src="https://github.com/user-attachments/assets/52079a02-c82a-492a-94c6-871fad9a300a" />
+
+
+
+
+
 ## CIRCUIT DAIGRAM FOR KCL
 
 
