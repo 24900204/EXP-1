@@ -44,30 +44,31 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+<img width="608" height="365" alt="image" src="https://github.com/user-attachments/assets/14518e6c-ae70-4c2f-8966-b0dc6aedf4a8" />
+
  
 
 
 b.  KCL:
- 
+<img width="565" height="347" alt="image" src="https://github.com/user-attachments/assets/52079a02-c82a-492a-94c6-871fad9a300a" />
+## CIRCUIT DAIGRAM FOR KCL
+<img width="836" height="447" alt="image" src="https://github.com/user-attachments/assets/cb92a33f-8f42-4767-808c-7b93ceea7293" />
+## OBSERVATION TABLE
 
-Calculation:
+ <img width="551" height="498" alt="image" src="https://github.com/user-attachments/assets/0166941e-e18d-46a8-85be-f504deed01ba" />
 
-a.   KVL:
- 
+## CIRCUIT DAIGRAM FOR KVL
 
+<img width="694" height="374" alt="image" src="https://github.com/user-attachments/assets/e808da99-c0f7-4481-8e9e-8bd6caa98165" />
+## OBSERVATION TABLE
 
-b.  KCL:
-
-
-
-
-Tabulation:
-
-a.   KVL:
- 
+<img width="506" height="511" alt="image" src="https://github.com/user-attachments/assets/066f9d9a-0e96-424d-80cb-d32f11aaa43b" />
 
 
-b.  KCL:
+
+## Calculation:
+
+
 
 
 
